@@ -1,0 +1,5 @@
+heap_size = 64
+
+service_uuid = "180A"
+# service_uuid = "34c5c72d-29f9-4c6d-8241-29c5980b4e75"
+value_uuid = "34c5c72d-29f9-4c6d-8241-29c5980b4e75"
